@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rest Easy Hotels", "Rest Easy Hotels\Rest Easy Hotels.csproj", "{42D3B16A-E5F9-49FF-B7CA-FCE85B8E8743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42D3B16A-E5F9-49FF-B7CA-FCE85B8E8743}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{42D3B16A-E5F9-49FF-B7CA-FCE85B8E8743}.Debug|Any CPU.Build.0 = Debug|x86
+		{42D3B16A-E5F9-49FF-B7CA-FCE85B8E8743}.Debug|x64.ActiveCfg = Debug|x64
+		{42D3B16A-E5F9-49FF-B7CA-FCE85B8E8743}.Debug|x64.Build.0 = Debug|x64
+		{42D3B16A-E5F9-49FF-B7CA-FCE85B8E8743}.Debug|x86.ActiveCfg = Debug|x86
+		{42D3B16A-E5F9-49FF-B7CA-FCE85B8E8743}.Debug|x86.Build.0 = Debug|x86
+		{42D3B16A-E5F9-49FF-B7CA-FCE85B8E8743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D3B16A-E5F9-49FF-B7CA-FCE85B8E8743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D3B16A-E5F9-49FF-B7CA-FCE85B8E8743}.Release|x64.ActiveCfg = Release|x64
+		{42D3B16A-E5F9-49FF-B7CA-FCE85B8E8743}.Release|x64.Build.0 = Release|x64
+		{42D3B16A-E5F9-49FF-B7CA-FCE85B8E8743}.Release|x86.ActiveCfg = Release|x86
+		{42D3B16A-E5F9-49FF-B7CA-FCE85B8E8743}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FD9C954-190F-4F10-9948-F5746C8299CC}
+	EndGlobalSection
+EndGlobal
